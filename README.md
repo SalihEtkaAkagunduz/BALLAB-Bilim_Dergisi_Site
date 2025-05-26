@@ -39,10 +39,7 @@ Bu GitHub deposu, topluluğun resmi dergi web sitesinin altyapısını ve tanıt
     <td><img src="https://github.com/user-attachments/assets/a9c9b2f5-931a-47a1-bcbe-483b718fc40a" width="400"/></td>
     <td><img src="https://github.com/user-attachments/assets/9bb827da-9514-42c3-ba03-b63a40351dfd" width="400"/></td>
   </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/277e31db-adee-401d-9e9f-72752f27b72a" width="400"/></td>
-    <td><img src="https://github.com/user-attachments/assets/b1bd3b6e-65eb-4518-b7e8-40763a45aaf5" width="400"/></td>
-  </tr>
+  
 </table>
 
 ---
