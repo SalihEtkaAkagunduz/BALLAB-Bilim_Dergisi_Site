@@ -27,8 +27,8 @@ Bu GitHub deposu, topluluğun resmi dergi web sitesinin altyapısını ve tanıt
 
 ## 🎬 Lansman Videosu
 
-<div align="center">
- https://github.com/user-attachments/assets/04f2da02-60be-4d3a-8967-1453b2dfe3c1
+[![Videoyu İzle](thumbnail.jpg)](https://github.com/user-attachments/assets/04f2da02-60be-4d3a-8967-1453b2dfe3c1)
+ 
 
 ---
 
